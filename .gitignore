@@ -1,0 +1,10 @@
+# Personal/meta files — local only, never pushed
+CLAUDE.md
+MASTER-STRATEGY-CALENDAR.md
+WORKING-DYNAMICS.md
+CLAUDE-WORKSPACE-STRUCTURE.md
+SPRINT-PLAN.md
+.claude/
+
+# Copyrighted source material — cite via DOI in reading-table.md instead
+sources/*.pdf
